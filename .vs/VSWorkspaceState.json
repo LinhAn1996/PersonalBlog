@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\blog",
+    "\\PersonalBlog",
     "\\personal_blog",
-    "\\personal_blog\\templates"
+    "\\personal_blog\\templates",
+    "\\projects",
+    "\\projects\\static\\img",
+    "\\projects\\templates"
   ],
-  "SelectedNode": "\\manage.py",
+  "SelectedNode": "\\projects\\templates\\project_index.html",
   "PreviewInSolutionExplorer": false
 }
